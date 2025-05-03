@@ -18,7 +18,7 @@ public class q1151 {
             anterior = corrente;
             corrente = proximo;
         }
-
+        
         leitor.close();
     }
 }
